@@ -1,4 +1,3 @@
-# EggTimerApp
-An app that will help you boil your eggs to perfection depending how you prefer them.
+# Egg Timer
 
-
+An egg-boiling app I designed to achieve perfect results based on user preferences. In the process, I honed my skills in using Swift Collection types, specifically dictionaries, to effectively store and manage information about diverse egg types like Soft, Medium, and Hard, along with their respective cooking times. The integration of the Swift Timer API enabled the creation of a precise countdown timer that was specific to the selected egg type. Utilizing conditional statements such as if/else and switch statements, I efficiently managed various scenarios and ensured optimal timer functionality when cooking different eggs. By implementing functions with outputs, I organized tasks cohesively, enhancing code readability and modularity and to enrich the user experience, I incorporated the ProgressView component, which delivers a visual representation of the timer's progress and provides users with a clear overview of the remaining time until their eggs reached perfection.
